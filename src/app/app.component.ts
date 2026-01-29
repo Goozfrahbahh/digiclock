@@ -69,7 +69,7 @@ import { Component, OnInit, OnDestroy } from "@angular/core";
                 <span
                   class="text-[11px] tracking-wide text-white/70 whitespace-nowrap"
                 >
-                  Have items page up ready to refresh 59
+                  Have items page up ready to refresh 59 secs
                 </span>
               </div>
 
