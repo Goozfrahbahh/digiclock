@@ -67,9 +67,10 @@ import { Component, OnInit, OnDestroy } from "@angular/core";
                 class="inline-flex items-center gap-2 rounded-full border border-white/10 bg-black/20 px-3 py-1"
               >
                 <span
-                  class="text-[11px] tracking-widest uppercase text-white/70"
-                  >No Trackers</span
+                  class="text-[11px] tracking-wide text-white/70 whitespace-nowrap"
                 >
+                  Have items page up ready to refresh 59
+                </span>
               </div>
 
               <div
